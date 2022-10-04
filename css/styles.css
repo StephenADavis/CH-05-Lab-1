@@ -101,7 +101,7 @@ main p {
 }
 
 .tel-link {
-  background-color: 373684;
+  background-color: #373684;
   padding: 2%;
   margin: 0 auto;
   width: 80%;
@@ -115,7 +115,6 @@ main p {
   font-size: 1.5em;
   display: block;
 }
-
 
 #contact .email-link {
   color: #4645a8;
