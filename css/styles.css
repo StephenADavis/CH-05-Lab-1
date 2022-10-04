@@ -86,7 +86,14 @@ main p {
   clear: left;
   background-color: #c0caf7;
   padding: 1% 2%;
+}
+
+#info ul {
   margin-left: 10%;
+}
+
+.round {
+  border-radius: 8px;
 }
 
 #contact {
